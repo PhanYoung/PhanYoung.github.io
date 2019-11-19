@@ -4,17 +4,20 @@ collection: projects
 type: "自然语言处理"
 permalink: /projects/2017-april-project-13
 venue: "联想"
-date: 2017-03-01
-location: "City, Country"
+date: 2017-03-08
+location: "上海"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+项目目标
+-----
 
-Heading 2
-======
+承担工作
+-----
 
-Heading 3
-======
+核心技术
+-----
+
+项目成果
+-----
+

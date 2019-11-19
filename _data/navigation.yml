@@ -1,20 +1,16 @@
 # main links links
 main:
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
+
+  - title: "Patents"
+    url: /patents/    
 
   - title: "Papers"
-    url: /publications/
+    url: /papers/
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Patents"
-    url: /teaching/    
-    
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+  - title: "Other Pubs"
+    url: /publications/

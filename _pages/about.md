@@ -5,8 +5,8 @@ excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
-    - /about.html
-    ---
+  - /about.html
+---
 
 #杨帆 (Yang Fan)
 

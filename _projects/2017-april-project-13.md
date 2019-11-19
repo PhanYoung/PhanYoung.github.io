@@ -1,6 +1,6 @@
 ---
 title: "某大型美国药企：药品销售知识图谱"
-collection: teaching
+collection: projects
 type: "自然语言处理"
 permalink: /projects/2017-april-project-13
 venue: "联想"

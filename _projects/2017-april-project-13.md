@@ -4,7 +4,7 @@ collection: teaching
 type: "自然语言处理"
 permalink: /projects/2017-april-project-13.md
 venue: "联想"
-date: 2017-03
+date: 2017-03-01
 location: "City, Country"
 ---
 

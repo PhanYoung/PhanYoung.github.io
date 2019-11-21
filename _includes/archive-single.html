@@ -55,11 +55,12 @@
     {% endif %}
     
     {% if post.citation and post.paperurl %}
-    <p>Recommended citation: {{ post.citation }} </p> <p><a href="{{ post.paperurl }}"><u>[下载]</u></a></p>
+    <p>Cite it: <i>{{ post.citation }}</i> <br><a href="{{ post.paperurl }}">[下载]</a></p>
     {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
+    <p>Cite it: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>[下载]</u></a></p>
+    <p>Download: <a href=" {{ post.paperurl }} "> [下载]</a></p>
+    <p>  </p>
     {% endif %}
 
   </article>

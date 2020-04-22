@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "杨帆"
   avatar           : "profile.png"
-  bio              : "联想数据智能应用实验室 主任科学家、总监"
+  bio              : "联想集团数据智能研究总监、数据智能应用实验室主任科学"
   location         : "Location"
   employer         :
   pubmed           :
@@ -184,6 +184,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  papers:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -225,6 +228,15 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _papers
+  - scope:
+      path: ""
+      type: papers
     values:
       layout: single
       author_profile: true

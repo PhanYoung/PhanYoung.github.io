@@ -171,8 +171,8 @@
     {% if entry.location %}
       {% capture entrytype %}{{ entrytype }}{{ ", " }}{{ entry.location }}{% endcapture %}
     {% endif %}
-    {% if entry.number %}
-      {% capture entrytype %}{{ entrytype }}{{ ", " }}{{ entry.number }}{% endcapture %}
+    {% if entry.country %}
+      {% capture entrytype %}{{ entrytype }}{{ ", " }}{{ entry.country }}{% endcapture %}
     {% endif %}
     {% if entry.additional_info %}
       {% capture entrytype %}{{ entrytype }}{{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}

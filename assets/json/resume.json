@@ -8,19 +8,12 @@
     "url": "https://phanyoung.github.io",
     "summary": "未做过青椒的老腊椒",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "address": "成都市高新区天府大道中段 1366 号",
+      "postalCode": "610000",
+      "city": "成都",
+      "countryCode": "CN",
+      "region": "四川"
+    }
   },
   "work": [
     {

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 万物纵横DM1684X-AI智算模组面市
-date: 2025-09-06 16:11:00
+date: 2025-09-05 16:11:00
 inline: false
 related_posts: false
 ---

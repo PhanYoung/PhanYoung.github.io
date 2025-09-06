@@ -10,4 +10,4 @@ DM1684XAI智算模组，采用高集成度BM1684X处理器，具有功耗低、�
 
 -----
 
-详细内容请参阅我们公司微信公众号文章： https://mp.weixin.qq.com/s/aaFyYAHscm4UcFjdyH-g0w
+详细内容请参阅我们公司微信公众号文章： <a href=https://mp.weixin.qq.com/s/aaFyYAHscm4UcFjdyH-g0w> 万物纵横DM1684X-AI智算模组 </a>

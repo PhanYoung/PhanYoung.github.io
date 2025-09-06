@@ -420,21 +420,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-1684mod-comming",
-          title: '1684mod comming',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/1684mod/";
             },},{id: "news-万物纵横dm1684x-ai智算模组面市",
           title: '万物纵横DM1684X-AI智算模组面市',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-1684xmod",
-          title: '1684xmod',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_4md/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",

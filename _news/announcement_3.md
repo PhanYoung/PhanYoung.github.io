@@ -9,13 +9,13 @@ related_posts: false
 The 7th Meeting of IEEE Computer Society / Knowledge Engineering Standards Committee was held in Sep 2nd, 2025.
 Agenda:
 
-1.Call to Order
+1. Call to Order
 
-2.Approval of the Agenda
+2. Approval of the Agenda
 
-3.Approval of the 6th  Meeting Minutes
+3. Approval of the 6th  Meeting Minutes
 
-4.Discussion Topics 
+4. Discussion Topics
     a. Updating of excising working group and projects in C/KESC
     b. Potential Standards and PARs submitted to KESC for consideration
         (1) Standard for performance benchmarking of large-scale pre-trained model application systems in manufacturing with knowledge enhancement
@@ -25,7 +25,7 @@ Agenda:
         (5) Application Guide for Carbon Footprint Knowledge Graph in Carbon Emission Traceability
     c. Coordination with other Standards Committees
 
-5.Future Meetings
+5. Future Meetings
 
-6.Adjourn
+6. Adjourn
 

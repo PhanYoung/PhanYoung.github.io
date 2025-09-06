@@ -9,16 +9,16 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-news",
+          title: "news",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/news/";
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "通过文献类型或关键字筛选查找",
+          description: "通过文献类型(技术标准、学术论文、发明专利)或关键字进行筛选、查找",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -51,28 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -448,6 +427,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
+            },},{id: "news-万物纵横dm1684x-ai智算模组面市",
+          title: '万物纵横DM1684X-AI智算模组面市',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/1684mod/";
             },},{id: "news-万物纵横dm1684x-ai智算模组面市",
           title: '万物纵横DM1684X-AI智算模组面市',
           description: "",

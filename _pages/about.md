@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>成都信息工程大学计算机学院 副研究员</p>
+    <p>成都信息工程大学 副研究员</p>
     <p>四川万物纵横科技股份有限公司 CTO</p>
     <p>中国，成都</p>
 

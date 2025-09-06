@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
@@ -427,8 +420,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-万物纵横dm1684x-ai智算模组面市",
-          title: '万物纵横DM1684X-AI智算模组面市',
+            },},{id: "news-1684mod-comming",
+          title: '1684mod comming',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/1684mod/";
@@ -437,6 +430,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-1684xmod",
+          title: '1684xmod',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4md/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",

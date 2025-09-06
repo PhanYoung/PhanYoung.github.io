@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: false
 nav_order: 3
-display_categories: [技术标准, 应用产品, 研发项目]
+display_categories: [work, fun]
 horizontal: false
 ---
 

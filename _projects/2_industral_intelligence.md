@@ -1,81 +1,44 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: 机器视觉与工业智能
+description: 机器视觉(含多模态)与工业智能相关研发经历
+importance: 1
+category: interests
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+#### 技术背景
+工业智能是以工业场景的 “降本、提质、增效、安全” 为目标，融合人工智能、大数据、物联网（IIoT）、数字孪生等技术，实现工业全流程 “感知 - 分析 - 决策 - 执行 - 优化” 闭环的智能体系。其核心是让工业系统具备类似人类的 “认知能力”，能够自主应对动态生产环境中的复杂问题，而非仅依赖预设程序的自动化操作。
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+机器视觉在工业智能中，是通过图像采集与 AI 算法模拟人类视觉功能，实现工业生产全流程中产品缺陷检测、尺寸精度测量、物料定位识别、生产状态监控等任务的自动化与精准化，为工业智能的 “感知” 环节提供核心数据支撑，替代或超越人工视觉，提升生产效率与质量稳定性。
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+#### 研究成果
++ 面向异常工况预警的深度神经网络方法
+    - 提前1小时预警异常工况，有效减少人工值守工作
+    - 在武汉石化、兰州石化、宁波石化成功应用
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
++ 生产结果（产率、质量等）预测与优化的深度神经网络方法
+    - 对残次品预测召回率99.9%以上
+    - 使汽油产率提升0.83%、液化气收率提升 0.51%，每套催化裂化装置，一年可提升收益约2459.8万元
+    - 焦炭质量指标预测误差率5%以内，饲料质量指标预测误差率5%以内
+    - 在联想、宁德时代、包钢、山东万达、兰州石化、新希望等企业成功应用
 
-{% raw %}
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
++ 污染预测与优化的深度神经网络方法
+    - 烟气脱硫结果预测准确率99.5%以上，脱硫成本降低20%以上
+    - 在远达环保、浙能等企业成功应用
 
-{% endraw %}
++ 养殖过程中的若干深度学习算法
+    - 生猪个体识别与行为轨迹跟踪
+    - 面向配种决策的生育结果预测，实验准确率：90%以上
+    - 饲料配方设计与精准饲喂
+    - 猪、禽价格预测：作为期货交易员的辅助工具，为每名交易员单月提升收益 150万元以上
+
+
++ 主持国家、省部级科研课题、子课题
+    - 面向人工智能基础技术及应用的检验检测基础服务平台建设（2019-00893-1-1）国家级
+    - 深度学习专用平台 (2019ZDZX006) 省部级
+    - 川猪精细化智能养殖与环境精准控制（2021ZDZX0011） 省部级

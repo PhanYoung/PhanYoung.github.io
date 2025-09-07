@@ -1,81 +1,41 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: 协同计算与分布式系统
+description: 协同计算与分布式系统（含大数据、物联网、云计算等）研发经历
+importance: 1
+category: interests
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+#### 技术背景
+协同计算（Collaborative Computing）是一种以 “协同” 为核心理念的计算范式，它通过整合分布在不同空间、具备不同功能的计算资源（如硬件设备、软件系统、数据资产、网络节点等），打破资源孤岛与技术壁垒，建立高效的互联、交互与协作机制，最终实现单一计算单元无法完成的复杂任务目标，或显著提升任务处理的效率、精度与规模。
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+#### 研发经历
++ 2010-2015年，在阿里、百度等互联网公司使用大数据技术
+    - 处理阿里全球消费数据
+    - 处理百度全网web数据
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
++ 2015-2107年，主持完成联想LUDP大数据平台开发，并成为联想全球统一大数据平台
+    - 在内部技术竞争中，胜过Moto Lora、联想北美研发团队等大数据平台产品
+    - 部署在联想全球9个IDC中，开展大规模跨区域协同计算
+    - 持续为联想全球的业务活动，提供大数据赋能
+    - 带领团队凭该项目获得联想全球2017年优秀团队奖（芮勇颁奖）
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
++ 2016-2017年，主持完成联想 LEAP 大数据平台产品体系研发
+    - 获得软著20余项
+    - LEAP入选工信部《大数据优秀产品、服务和应用解决方案案例集》
+    - LEAP入选《大数据安全标准化白皮书（2018）》应用实践案例
+    - LEAP获得2018工信部“全国大数据优秀产品和应用解决方案” 十佳
+    - LEAP获得2018中国国际大数据产业博览领先科技成果奖
+    - 凭该项目获得2017年联想全球突出贡献奖（杨元庆颁奖）
 
-{% raw %}
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
++ 2021年-2023年，主持完成新希望农牧大数据平台研发
+    - 获得软著2项
+    - 支撑新希望六和的数据化转型
 
-{% endraw %}
++ 2023-2025年，主持万物智能物联平台研发
+    - 有

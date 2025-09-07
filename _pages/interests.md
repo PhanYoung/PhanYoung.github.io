@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 研究兴趣
+title: interests
 permalink: /interests/
 description: 研究兴趣与工作方向
 nav: true

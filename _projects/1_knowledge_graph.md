@@ -15,23 +15,23 @@ related_publications: false
 #### 研究经历
 - 2012年，主持研发百度首个知识图谱产品“WDM知识图谱”
     +  获2013百度黑马奖（吴恩达颁奖）
-    +  应用在百度搜索、地图、百科、右推栏等位置
-    ![获得吴恩达嘉奖](https://phanyoung.github.io/assets/img/ng.jpg)
+    +  应用在百度搜索、地图、百科、右推栏等位置 
+    + ![获得吴恩达嘉奖](https://phanyoung.github.io/assets/img/ng.jpg)
 <br><br>
     
 
-- 2013年 构建万达电商知识图谱，自主探索基于知识图谱的推荐广告算法与智能问答服务
+- 2013年 构建万达电商知识图谱，自主探索基于知识图谱的推荐广告算法与智能问答服务 
 <br><br>
     
 - 2017年，主持研发康德乐医疗知识图谱
     + 效果显著优于IBM Watson，获得美国世界500强企业康德乐医疗知识图谱项目
-    + 疫情期间，该知识图谱入选国家标准化管理委员会《知识图谱助力疫情防控和复工复产案例集》
-    ![复产案例集](https://phanyoung.github.io/assets/img/set1.jpg)
+    + 疫情期间，该知识图谱入选国家标准化管理委员会《知识图谱助力疫情防控和复工复产案例集》 
+    + ![复产案例集](https://phanyoung.github.io/assets/img/set1.jpg)
 <br><br>
     
 - 2018年，主持研发联想知识图谱平台
-    + 首批首家通过中国电标院知识图谱认证（首批前5家通过认证的企业：联想、华为、百度、腾讯、阿里）
-    ![CESI认证](https://phanyoung.github.io/assets/img/auth_cesi.jpg)
+    + 首批首家通过中国电标院知识图谱认证（首批前5家通过认证的企业：联想、华为、百度、腾讯、阿里） 
+    + ![CESI认证](https://phanyoung.github.io/assets/img/auth_cesi.jpg)
 <br><br>
         
     
@@ -42,6 +42,7 @@ related_publications: false
 - 2019年 主持联想的电力知识图谱项目
     + 该项目入选中国电子标准化研究院《知识图谱案例集（2020）》 
     + 基于相关实践，与国家电网联合发起IEEE电力知识图谱标准(IEEE2807.3),该标准2022年正式发布
+    + ![知识图谱案例集（2020）](https://phanyoung.github.io/assets/img/set2.jpg)![获得吴恩达嘉奖](https://phanyoung.github.io/assets/img/IEEE2807.3.jpg)
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/set2.jpg" title="入选案例集" class="img-fluid rounded z-depth-1" %}
@@ -64,6 +65,7 @@ related_publications: false
     - 2021年，当选IEEE P2807.3工作组秘书
     - 2023年，当选IEEE P3347工作组秘书
     - 2025年，当选IEEE P2807.15工作组主席
+    - 目前参与在研知识图谱国家标准2项、 IEEE标准4项
     - 已发布标准，参见 [publications](https://phanyoung.github.io/publications/)
 
 <br><br>

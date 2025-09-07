@@ -434,10 +434,20 @@ ninja.data = [{
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
+              window.location.href = "/projects/2/";
+            },},{id: "projects-机器视觉与工业智能",
+          title: '机器视觉与工业智能',
+          description: "机器视觉(含多模态)与工业智能相关研发经历",
+          section: "Projects",handler: () => {
               window.location.href = "/projects/2_industral_intelligence/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3/";
+            },},{id: "projects-协同计算与分布式系统",
+          title: '协同计算与分布式系统',
+          description: "协同计算与分布式系统（含大数据、物联网、云计算等）研发经历",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_collaberative_computing/";
             },},{

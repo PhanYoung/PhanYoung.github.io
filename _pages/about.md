@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>成都信息工程大学 副研究员</p>
     <p>四川万物纵横科技股份有限公司 CTO</p>
-    <p>中国，成都</p>
+  
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page

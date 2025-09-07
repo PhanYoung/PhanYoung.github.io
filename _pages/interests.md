@@ -1,11 +1,11 @@
 ---
 layout: page
-title: interests
+title: 研究兴趣
 permalink: /interests/
 description: 研究兴趣与工作方向
-nav: false
+nav: true
 nav_order: 3
-display_categories: ["research interests"]
+display_categories: [interests]
 horizontal: false
 ---
 

@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-研究兴趣",
+          title: "研究兴趣",
+          description: "研究兴趣与工作方向",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/interests/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "A data miner mining life values from data.",

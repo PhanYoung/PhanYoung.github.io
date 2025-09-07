@@ -42,15 +42,7 @@ related_publications: false
 - 2019年 主持联想的电力知识图谱项目
     + 该项目入选中国电子标准化研究院《知识图谱案例集（2020）》 
     + 基于相关实践，与国家电网联合发起IEEE电力知识图谱标准(IEEE2807.3),该标准2022年正式发布
-    + ![知识图谱案例集（2020）](https://phanyoung.github.io/assets/img/set2.jpg)![获得吴恩达嘉奖](https://phanyoung.github.io/assets/img/IEEE2807.3.jpg)
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/set2.jpg" title="入选案例集" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/IEEE2807.3.jpg" title="IEEE2807.3" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+    + ![知识图谱案例集（2020）](https://phanyoung.github.io/assets/img/set2.jpg) ![IEEE2807.3](https://phanyoung.github.io/assets/img/publication_preview/IEEE2807.3.jpg)
 <br><br>
     
 - 2021年，在国家重点研发计划项目：典型畜禽疫病智能诊断与主动防控系统（2021ZD0113800）中承担子课题生猪疫病知识图谱构建及应用
@@ -67,7 +59,6 @@ related_publications: false
     - 2025年，当选IEEE P2807.15工作组主席
     - 目前参与在研知识图谱国家标准2项、 IEEE标准4项
     - 已发布标准，参见 [publications](https://phanyoung.github.io/publications/)
-
 <br><br>
     
 - 2024年，主持万物承担的一系列知识增加的大语言模型研发项目

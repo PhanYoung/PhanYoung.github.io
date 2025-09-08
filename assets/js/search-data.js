@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "可通过文献类型(技术标准、学术论文、发明专利)或关键字进行筛选、查找。其中，专利以授权时间进行排序。",
+          description: "个人发表、出版文献清单（其中，专利以授权时间进行排序），可通过文献类型(技术标准、学术论文、发明专利)或关键字进行筛选、查找。",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -412,8 +412,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-加入成都信息工程大学",
-          title: '加入成都信息工程大学！',
+            },},{id: "news-加入成都信息工程大学-开启我的教学生涯",
+          title: '加入成都信息工程大学，开启我的教学生涯。',
           description: "",
           section: "News",},{id: "news-ieee-kesc-7th-meeting",
           title: 'IEEE KESC 7th Meeting',

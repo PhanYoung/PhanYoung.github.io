@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-加入成都信息工程大学！
+加入成都信息工程大学，开启我的教学生涯。

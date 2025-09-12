@@ -425,6 +425,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-ieee-p2807-15标准正式立项",
+          title: 'IEEE P2807.15标准正式立项',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/news20250912/";
             },},{id: "projects-大语言模型与知识图谱",
           title: '大语言模型与知识图谱',
           description: "大语言模型与知识图谱相关研发经历",

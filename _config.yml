@@ -264,8 +264,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Fan, Yang, "Fan Yang", "F. Yang", "杨帆" , "杨", "帆"]
-  first_name: [Fan, Yang, "Fan Yang", "F. Yang", "杨帆", "杨", "帆"]
+  last_name: [Fan, Yang, Fan Yang, F. Yang, 杨帆 , 杨, 帆]
+  first_name: [Fan, Yang, Fan Yang, F. Yang, 杨帆, 杨, 帆]
 
   style: apa
   locale: en
